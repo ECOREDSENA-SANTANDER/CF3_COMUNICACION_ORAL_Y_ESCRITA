@@ -99,8 +99,84 @@ figcaption
   border-top-left-radius: 20px
   border-top-right-radius: 20px
 
+.borde-redondo-izq
+  border-top-left-radius: 20px
+  border-bottom-left-radius: 20px
+
 .bgazulclaro
   background-color: #E5F4FF
+
+.bgrosado
+  background-color: #FCC5D5
+
+.bgrosadoclaro
+  background-color: #FFE6FB
+
+.bgblanco
+  background-color: white
+
+.bgfondo1
+  background: url('../assets/curso/t1/fondo1.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.bgfondo2
+  background: url('../assets/curso/t1/fondo2.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.bgfondo3
+  background: url('../assets/curso/t1/fondo3.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+
+.bgfondo4
+  background: url('../assets/curso/t1/fondo4.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
+
+.lista-ul--color li > i:first-of-type 
+  color: black
+
+.lista-ul--color.peq li > i:first-of-type 
+  font-size: 5px
+  margin-top: 6px
+
+.fa-check-circle:before
+  content: url('../assets/curso/t1/vineta_rosada.svg')
 
 //tema 1
 
@@ -114,3 +190,108 @@ figcaption
 
 .t50
   width: 80px
+
+.bgazulconpuntos
+  background-image: url('../assets/curso/t1/fazulpuntos.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+
+.tarjeta--boton.bgazulconpuntos:hover
+  background-image: url('../assets/curso/t1/frosadopuntos.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  img
+    content: url('../assets/curso/t1/tar1-2.png')
+
+.tarjeta.bgazulclaro2
+  background-color: #CBE9FF
+
+.bordeesp
+  border-right: solid 3px !important
+  border-right-color: #B0C0D2 !important
+
+
+.tarjeta--blanca
+  background-color: #FFFFFF 
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: #FEE3B3;
+
+.slyder-a__bullets__item
+    background-color: #FCC5D5;
+
+.slyder-a__bullets__item--active 
+    background-color: #F96E97;
+    border-color: #F96E97;
+
+// para que los botones no se estiren en mobile
+
+.slyder-a__bullets__item--active 
+
+@media (max-width: 768px) 
+    .slyder-a__bullets__item 
+        width: 11px
+        height: 11px
+        margin: 0px 0.5px
+
+@media (max-width: 768px)  
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    width: 30px
+    height: 30px
+
+//-----------------seguimos
+
+.bgazulconpuntospeq
+  background-image: url('../assets/curso/t1/fazulpuntospeq.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+
+.tarjeta--boton.bgazulconpuntospeq:hover
+  background-image: url('../assets/curso/t1/frosadopuntospeq.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+
+.cursor-pointer .tarjeta-foto-hover
+  cursor: pointer  
+.bg-degrade
+  background: #E6DCFE
+  background: linear-gradient(180deg, #E6DCFE 0%, #E6DCFE 100%)
+.tarjeta-foto-hover
+  position: relative
+  overflow: hidden
+  &:hover
+    .tarjeta-foto-hover__tarjeta
+      transform: translateY(0%)
+
+  &__titulo
+    position: absolute
+    bottom: 0
+    width: 100%
+  &__tarjeta
+    transition: transform 0.3s ease-in-out
+    position: absolute
+    bottom: 0
+    width: 100%
+    height: 100%
+    transform: translateY(100%)  
+
+.acordion__accion__btn--a
+  background-color: #FEE3B3
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+
+.acordion .tarjeta--azul
+  background-color: #E5F4FF
+
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #CDB8FD
+  h3
+    color: black
+
+.acordion__titulo
+  h3
+    color: black
+
