@@ -75,7 +75,7 @@
             .row.justify-content-center.align-items-center
               .col-auto
                 h3.text-center.bgblanco.px-3 Punto seguido
-            p.text-small.px-4.mb-4.mt-3 Separa dos frases que se complementan en un mismo párrafo, es decir, hablan del mismo tema.
+            p.px-3.mb-4.mt-3.text-center Separa dos frases que se complementan en un mismo párrafo, es decir, hablan del mismo tema.
 
         .col-sm-6.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bgazulconpuntos.p-4
@@ -85,7 +85,7 @@
             .row.justify-content-center.align-items-center
               .col-auto
                 h3.text-center.bgblanco.px-3 Punto aparte
-            p.text-small.px-4.mb-4.mt-3 Representa el párrafo que ha terminado, el texto sigue con el inicio de un nuevo párrafo.
+            p.px-3.mb-4.mt-3.text-center Representa el párrafo que ha terminado, el texto sigue con el inicio de un nuevo párrafo.
 
         .col-sm-6.col-lg-4.mb-4.mb-sm-0
           .tarjeta--boton.bgazulconpuntos.p-4
@@ -95,7 +95,8 @@
             .row.justify-content-center.align-items-center
               .col-auto
                 h3.text-center.bgblanco.px-3 Punto final
-            p.text-small.px-4.mb-5.mt-2 Como lo menciona indica el final de escrito.
+            p.px-3.mb-5.mt-3.text-center Como lo menciona indica el final de escrito.
+            br
 
       .row.align-items-center.mt-5.mb-4(data-aos="fade-right")
         .col-auto.bgrosado.borde-redondo
