@@ -36,7 +36,6 @@
         .bloque-texto-g__texto.p-4
           p.mb-4 En articulación total con este curso, es fundamental recordar la importancia y aplicabilidad de los signos ortográficos, que, según la Real Academia Española (RAE, 2005), son “todas aquellas marcas gráficas que, no siendo números ni letras, aparecen en los textos escritos con el fin de contribuir a su correcta lectura e interpretación. Cada uno de ellos tiene una función propia y unos usos establecidos por convención”.
           br
-          img.t50(src='@/assets/curso/t1/img13.png', alt='')
           br
           p En este sentido, un texto escrito con los signos ortográficos utilizados de manera precisa conduce a una interpretación adecuada, lo que influye de forma directa y significativa no solo en la escritura, sino también en la lectura.   
 
