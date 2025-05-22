@@ -246,7 +246,7 @@
     p.text-center.mb-4 Del significado citado, vale decir que:
 
     .row
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.bgazulconpuntos1.p-4
           .row.justify-content-center.mb-4
             .col-auto
@@ -255,7 +255,7 @@
             .col-auto
           p.px-3.mb-5.mt-2.text-center Una proposición es invariable, dado que no cambia de género.
 
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.bgazulconpuntos2.p-4
           .row.justify-content-center.mb-4
             .col-auto
@@ -264,7 +264,7 @@
             .col-auto
           p.px-3.mb-4.mt-2.text-center Un término nominal u oracional, quiere decir que es perteneciente o relativo a nombre y oracional porque construye una oración.
 
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-sm-0
         .tarjeta--boton.bgazulconpuntos3.p-4
           .row.justify-content-center.mb-4
             .col-auto
@@ -388,7 +388,7 @@
         h3.px-1.pt-1.pb-0.mb-1 Registro de información indirecta
     
     .row
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.bgazulconpuntos11.p-4
           .row.justify-content-center.mb-4
             .col-auto
@@ -398,7 +398,7 @@
               h3.text-center.bgblanco.px-1 Fichas bibliográficas o de contenido específico
           p.px-3.mt-2.mb-0.text-center En el caso de consulta de libros, ensayos, artículos, entre otros documentos, se opta por utilizar fichas que ordenan la información. Estas se enumeran y se citan las fuentes, de manera que puedan ser consultadas en cualquier momento.
 
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.bgazulconpuntos21.p-4
           .row.justify-content-center.mb-4
             .col-auto
@@ -409,7 +409,7 @@
           p.px-3.mb-5.mt-2.text-center Son técnicas ya citadas en el tema uno y que aplican para el registro de información indirecta.
           br
 
-      .col-sm-6.col-lg-4.mb-4.mb-sm-0
+      .col-sm-6.col-md-12.col-lg-4.mb-4.mb-sm-0
         .tarjeta--boton.bgazulconpuntos31.p-4
           .row.justify-content-center.mb-4
             .col-auto

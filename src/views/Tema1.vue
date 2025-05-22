@@ -66,7 +66,7 @@
       p.mb-4.mt-4 Se utiliza al terminar una oración que no sea interrogativa, de admiración o exclamación. La primera palabra después de un punto empieza con mayúscula. El punto se utiliza en tres momentos de un escrito:
 
       .row
-        .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bgazulconpuntos.p-4
             .row.justify-content-center.mb-4
               .col-auto
@@ -76,7 +76,7 @@
                 h3.text-center.bgblanco.px-3 Punto seguido
             p.px-3.mb-4.mt-3.text-center Separa dos frases que se complementan en un mismo párrafo, es decir, hablan del mismo tema.
 
-        .col-sm-6.col-lg-4.mb-4.mb-lg-0
+        .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
           .tarjeta--boton.bgazulconpuntos.p-4
             .row.justify-content-center.mb-4
               .col-auto
@@ -86,7 +86,7 @@
                 h3.text-center.bgblanco.px-3 Punto aparte
             p.px-3.mb-4.mt-3.text-center Representa el párrafo que ha terminado, el texto sigue con el inicio de un nuevo párrafo.
 
-        .col-sm-6.col-lg-4.mb-4.mb-sm-0
+        .col-sm-6.col-md-12.col-lg-4.mb-4.mb-sm-0
           .tarjeta--boton.bgazulconpuntos.p-4
             .row.justify-content-center.mb-4
               .col-auto
@@ -241,8 +241,8 @@
         .col-lg-4.mb-3.mb-md-0
           .tarjeta.tarjeta-foto-hover
             .tarjeta-foto-hover__img: img(src='@/assets/curso/t1/tar2-1.png')
-            .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
-              h4.text-center.text-white.mb-0 Los signos de interrogación
+            .tarjeta-foto-hover__titulo.bgmorado.d-flex.justify-content-center.align-items-center.p-2
+              h4.text-center.text-white.mb-1 Los signos de interrogación
             .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
               .px-4.text-center
                 h5 Los signos de interrogación
@@ -251,8 +251,8 @@
           .tarjeta.tarjeta-foto-hover(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")
             .tarjeta-foto-hover__img: img(src='@/assets/curso/t1/tar2-2.png')
-            .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-2
-              h4.text-center.text-white.mb-0 Los signos de admiración o exclamación
+            .tarjeta-foto-hover__titulo.bgmorado.d-flex.justify-content-center.align-items-center.p-2
+              h4.text-center.text-white.mb-1 Los signos de admiración o exclamación
             .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
               .px-4.text-center
                 h5 Los signos de admiración o exclamación
