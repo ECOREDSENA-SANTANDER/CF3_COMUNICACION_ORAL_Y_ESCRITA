@@ -129,29 +129,30 @@
                   p.mb-0 La oración refiere que la persona va a caminar.
 
       .row.justify-content-center.align-items-center.mb-5
-        p #[b Utilización de la coma:]
-        p Es uno de los signos de puntuación más utilizado a fin de dar sentido a una oración, a la vez que separa elementos o apreciaciones y permite dar pausas en milésimas de segundo al momento de leer.
-        p.mb-4 Como se evidencia en la siguiente frase, la coma cambia totalmente el sentido a la frase:
-        .col-lg-10.col-md-12.col-sm-12
-          .row.justify-content-center.align-items-center
-            .col-lg-6.col-md-6.col-sm-12
-              .row.bordeesp.mb-4
-                .col-auto
-                  img(src='@/assets/curso/t1/img5.png', alt='')
-                p.mt-3 #[b 1. Separa elementos, personas o animales de una oración.]
-              .row.bordeesp
-                .col-auto
-                  img(src='@/assets/curso/t1/img5.png', alt='')
-                p.mt-3 #[b 2. Aclara o explica una apreciación.]
-            .col-lg-6.col-md-6.col-sm-12
-              .row.mb-4
-                .col-auto
-                  img(src='@/assets/curso/t1/img5.png', alt='')
-                p.mt-3 #[b 3. Separa el nombre del sujeto del que se escribe.]
-              .row
-                .col-auto
-                  img(src='@/assets/curso/t1/img5.png', alt='')
-                p.mt-3 #[b 4. Se utiliza después de un conector, es decir, por ejemplo, dicho lo anterior.]
+        .col-lg-3.col-md-5.col-sm-12
+          .row.bgazulclaro2.align-items-center.justify-content-center
+            .col-auto
+              img(src='@/assets/curso/t1/img15.png', alt='')
+        .col-lg-6.col-md-12.col-sm-12
+          .row.bgazulclaro2.align-items-center.justify-content-cente.p-4
+            h3.mt-5.mb-4 Utilización de la coma:
+            ul.lista-ul--color.fa-al
+              li 
+                i.fas.fa-check-circle
+                span.mb-0 Separa elementos, personas o animales de una oración. 
+              li 
+                i.fas.fa-check-circle
+                span.mb-0 Aclara o explica una apreciación. 
+              li 
+                i.fas.fa-check-circle
+                span.mb-0 Separa el nombre del sujeto del que se escribe. 
+              li 
+                i.fas.fa-check-circle
+                span.mb-0 Se utiliza después de un conector, es decir, por ejemplo, dicho lo anterior.
+        .col-lg-3.col-md-5.col-sm-12
+          .row.bgrosadoclaro.align-items-center.justify-content-center
+            .col-lg-7.col-md-8.col-12
+              img.py-3(src='@/assets/curso/t1/img16.png', alt='')
 
       .row.align-items-center.mb-3(data-aos="fade-right")
         .col-auto.bgrosado.borde-redondo
@@ -180,7 +181,7 @@
                             span Salimos de formación el domingo a las 6:00 de la tarde, tomamos un taxi que nos acercara a la estación de Transmilenio; pero la estación estaba cerrada.
                           li 
                             span.text-bold b) 
-                            span En inglés, caballo se escribe horse; en francés, caballo; en alemán #[em pferd] y en portugués #[em horseman].
+                            span En inglés, caballo se escribe #[em horse]; en francés, #[em caballo]; en alemán #[em pferd] y en portugués #[em horseman].
                     .row.justify-content-center.align-items-center
                       .col-lg-10
                         p Se usa el punto y coma, cuando los elementos de una oración son de diferentes clases.
@@ -349,7 +350,7 @@
             .col-lg-10
               p Se puede entender como una forma de presentación que gráficamente da unas secuencias o evidencia un proceso, en esta representación se puede hacer uso de símbolos para facilitar el entendimiento y el análisis de la información que se recomienda organizar a manera de datos, se usa por lo general para mostrar oportunidades de mejora o resúmenes de información de una forma más cómoda de revisar y leer.
 
-
+      p.mb-4.mt-4  Estas herramientas son fundamentales en los ámbitos educativo y profesional, ya que facilitan la organización, comprensión y comunicación de la información. Su aplicación adecuada contribuye al desarrollo del pensamiento crítico y al aprendizaje significativo.
 
 
 

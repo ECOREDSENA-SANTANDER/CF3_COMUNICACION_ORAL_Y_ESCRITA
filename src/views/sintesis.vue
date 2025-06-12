@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.png", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.png", alt="El relacionamiento permite unir ideas de forma lógica para que el mensaje sea claro y coherente. Es esencial para escribir bien y comunicarse con sentido. Sin esta habilidad, el texto pierde dirección y fuerza.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

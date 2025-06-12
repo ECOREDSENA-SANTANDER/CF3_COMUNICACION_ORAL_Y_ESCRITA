@@ -135,7 +135,7 @@ export default {
   complementario: [
     {
       tema: 'Uso de las preposiciones y su función.',
-      referencia: 'EAFIT (s. F.). Las preposiciones y su función.',
+      referencia: 'EAFIT (s.f.). Las preposiciones y su función.',
       tipo: 'PDF',
       link:
         'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF3_Relacionando/media/documentos/Las_preposiciones_funci%C3%B3n_EAFIT.pdf',
@@ -193,12 +193,12 @@ export default {
     {
       termino: 'Relación',
       significado:
-        'capacidad de conectar y articular distintas ideas y conceptos dentro de un texto, creando vínculos lógicos y fisiológicos entre ellos.',
+        'capacidad de conectar y articular distintas ideas y conceptos dentro de un texto, creando vínculos lógicos y significativos entre ellos.',
     },
     {
       termino: 'Texto',
       significado:
-        'conjunto de signos organizados de manera coherente que comunican un mensaje. puede ser oral, escrito o visual.',
+        'conjunto de signos organizados de manera coherente que comunican un mensaje. Puede ser oral, escrito o visual.',
     },
     {
       termino: 'Texto argumentativo',
@@ -322,12 +322,12 @@ export default {
         {
           nombre: 'Elba Patricia Rodríguez',
           cargo: 'Experta técnica',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial ',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Zvi Daniel Grosman',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
@@ -360,7 +360,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

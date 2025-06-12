@@ -78,7 +78,7 @@
         PasosB.color-acento-contenido
           .row.justify-content-center(titulo="Paso 1")
             .col-lg-7.col-md-12.col-sm-12.mb-4.mb-md-0
-              p.mb-4 #[b Conocer el auditorio que estará en su presentación]
+              p.mb-4 #[b Conocer el auditorio que estará en su presentación:]
               ul.lista-ul--color.fa-al
                 li 
                   i.fas.fa-check-circle
@@ -97,7 +97,7 @@
 
           .row.justify-content-center(titulo="Paso 2")
             .col-lg-7.col-md-12.col-sm-12.mb-4.mb-md-0
-              p.mb-4 #[b Elaborar las ayudas audiovisuales que estime pertinentes y que sean acordes al lugar físico o virtual]
+              p.mb-4 #[b Elaborar las ayudas audiovisuales que estime pertinentes y que sean acordes al lugar físico o virtual:]
               ul.lista-ul--color.fa-al
                 li
                   i.fas.fa-check-circle
@@ -138,7 +138,7 @@
 
           .row.justify-content-center(titulo="Paso 4")
             .col-lg-7.col-md-12.col-sm-12.mb-4.mb-md-0
-              p.mb-4 #[b Parafraséalesando a Ortega (2002), hay “cinco problemas clásicos de los oradores sin experiencia]
+              p.mb-4 #[b Parafraséalesando a Ortega (2002), hay “cinco problemas clásicos de los oradores sin experiencia:]
               ul.lista-ul--color.fa-al
                 li
                   i.fas.fa-check-circle
@@ -185,7 +185,7 @@
             span.mb-0 Hacer una introducción antes de la lectura.
           li
             i.fas.fa-check-circle
-            span.mb-0 Leer con seguridad, de manera pausada y tranquila
+            span.mb-0 Leer con seguridad, de manera pausada y tranquila.
       .col-lg-3.col-md-5.col-12
         img(src='@/assets/curso/t2/img6.png', alt='')
 
@@ -253,7 +253,7 @@
               img(src='@/assets/curso/t2/uno.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center
             .col-auto
-          p.px-3.mb-5.mt-2.text-center Una proposición es invariable, dado que no cambia de género.
+          p.px-3.mb-5.mt-2.text-center Una preposición es invariable, dado que no cambia de género.
 
       .col-sm-6.col-md-12.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.bgazulconpuntos2.p-4
@@ -273,11 +273,12 @@
             .col-auto
           p.px-3.mb-1.mt-2.text-center Grupo sintáctico, se refiere al grupo de palabras que combinadas expresan significados, toda vez que cada unidad está debidamente conectada.
 
-    p.mb-4.mt-4 El Centro de Estudios de Lectura y Escritura – CELEE de la Universidad EAFIT (s. f.) refiere que las preposiciones cumplen una función sintáctica (modo en que se combinan las palabras): “unir palabras o frases dentro de un enunciado”. También cumplen una función semántica (significado de las palabras) “concretar el significado de la palabra siguiente con relación a la anterior y sirven para indicar lugar, tiempo, destino, causa, etc.”
+    p.mb-4.mt-4 El Centro de Estudios de Lectura y Escritura – CELEE de la Universidad EAFIT (s.f.) refiere que las preposiciones cumplen una función sintáctica (modo en que se combinan las palabras): “unir palabras o frases dentro de un enunciado”. También cumplen una función semántica (significado de las palabras) “concretar el significado de la palabra siguiente con relación a la anterior y sirven para indicar lugar, tiempo, destino, causa, etc.”
 
     .row.justify-content-center.align-items-center.bgmoradooscuro.borde-redondo.mb-4
       p.p-4.text-white.text-center.mb-0 #[b Las preposiciones, también se utilizan para conectar frases o palabras en mapas conceptuales, por lo que su importancia en modo de utilización es valiosa.]
 
+    p.mb-4 Siguiendo con la Universidad EAFIT construyó el siguiente cuadro, en el que se refieren las funciones semánticas de proposiciones más utilizadas y se dan algunos ejemplos:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .titulo-sexto.color-acento-contenido
@@ -299,7 +300,7 @@
               h4.mb-1 Conectores lógicos
               p.mb-0 Lo invitamos a revisar la guía de conectores lógicos, con la cual podrá reforzar los conocimientos adquiridos. 
             .col-sm-auto
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF3_Relacionando/media/anexos/conectores_logicos.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/conectores_logicos.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
@@ -345,6 +346,8 @@
             .row.justify-content-end.mt-0
               .col-auto
                 img.mb-4.mt-2(src='@/assets/curso/t2/ico.png', alt='')
+
+    p.mb-5 Con base en las precisiones anteriores, el profesional parte del trabajo en equipo, de su ética, su rol y compromiso para que la forma de reunir la información (directa o indirecta) sea consecuente con la necesidad generada según los procesos laborales o académicos.
 
     .subt.mb-5(data-aos="fade-right")
       .row.align-items-center
