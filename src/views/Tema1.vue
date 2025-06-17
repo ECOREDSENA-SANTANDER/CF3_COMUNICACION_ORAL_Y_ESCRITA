@@ -22,8 +22,8 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/ajM8atyLUxs?si=_cmMYLtgYB6MyvMm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-          figcaption Video: Semiótica y Semiología.
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/UEBAprTXvFI?si=UohL7mTvn0PND-X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+          figcaption Video: Semiótica y semiología.
 
       Separador  
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
