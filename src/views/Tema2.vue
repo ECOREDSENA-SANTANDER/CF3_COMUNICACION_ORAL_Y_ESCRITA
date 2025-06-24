@@ -283,7 +283,7 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .titulo-sexto.color-acento-contenido
         h5 Tabla 1. 
-        | Las proporciones y sus funciones
+        | Las preposiciones y sus funciones
       figure
         img.mb-2(src='@/assets/curso/t2/tabla1.png', alt='Se detallan las funciones semánticas más comunes de las preposiciones, acompañadas de algunos ejemplos ilustrativos.')
       figcaption Referencia Tabla - Las proporciones y sus funciones EAFIT (s.f.)
