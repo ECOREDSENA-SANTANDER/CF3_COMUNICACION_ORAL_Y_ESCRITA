@@ -20,7 +20,7 @@ export default {
       tema: 'Relacionando',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales sobre el relacionamiento en la comunicación oral y escrita.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre el relacionamiento en la comunicación oral y escrita.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
