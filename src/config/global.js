@@ -71,7 +71,7 @@ export default {
           },
           {
             numero: '2.3',
-            titulo: 'Discurso leído',
+            titulo: 'Discurso de lo leído',
             hash: 't_2_3',
           },
           {
