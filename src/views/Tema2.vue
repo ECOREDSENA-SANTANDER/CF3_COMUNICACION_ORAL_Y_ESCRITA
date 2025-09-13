@@ -104,7 +104,7 @@
                   span.mb-0 H5P.
                 li
                   i.fas.fa-check-circle
-                  span.mb-0 Power Point.
+                  span.mb-0 PowerPoint.
                 li
                   i.fas.fa-check-circle
                   span.mb-0 Canva.
@@ -138,7 +138,7 @@
 
           .row.justify-content-center(titulo="Paso 4")
             .col-lg-7.col-md-12.col-sm-12.mb-4.mb-md-0
-              p.mb-4 #[b Parafraséalesando a Ortega (2002), hay “cinco problemas clásicos de los oradores sin experiencia:]
+              p.mb-4 #[b Parafraseando a Ortega (2002), hay “cinco problemas clásicos de los oradores sin experiencia:]
               ul.lista-ul--color.fa-al
                 li
                   i.fas.fa-check-circle
@@ -186,46 +186,44 @@
           li
             i.fas.fa-check-circle
             span.mb-0 Leer con seguridad, de manera pausada y tranquila.
-      .col-lg-3.col-md-5.col-12
+      .col-lg-3.col-md-5.col-8
         img(src='@/assets/curso/t2/img6.png', alt='')
 
     .row.bgfondo6
 
-      p.mx-5 El maestro de ceremonias de un evento académico o laboral; debe tener en cuenta los siguientes aspectos. Parafraseando a Ortega en “7 sugerencias para hacer una buena presentación” (2002):
+      p.text-center El maestro de ceremonias de un evento académico o laboral; debe tener en cuenta los siguientes aspectos. Parafraseando a Ortega en “7 sugerencias para hacer una buena presentación” (2002):
       
-      .row.justify-content-center.align-items-end.mb-5
-        .col-lg-3.col-md-6.col-12
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-3.col-md-6.col-12.d-none.d-lg-block
           img(src='@/assets/curso/t2/img7.png', alt='')
         .col-lg-5.col-md-12.col-sm-12
 
           .row.bgfondo3.align-items-center.p-1.py-5
             .col-lg-12.col-12.px-lg-5.px-4
-
               .row.justify-content-center
-
-              .tarjeta.tarjeta--blanca.p-4.py-3(data-aos="fade-down")
-                SlyderA(tipo="b")
-                  .row.justify-content-center.align-items-center
-                    .col-lg-10
-                      p.mb-4 La presentación de la persona o grupo que discursará, no debe pasar más de cinco minutos.
-                  .row.justify-content-center.align-items-center
-                    .col-lg-10
-                      p.mb-4 Tener preparada y ensayada la presentación.
-                  .row.justify-content-center.align-items-center
-                    .col-lg-10
-                      p.mb-4 En un espacio físico, después de saludar y presentarse, invitar al público a utilizar las sillas de adelante.
-                  .row.justify-content-center.align-items-center
-                    .col-lg-10
-                      p.mb-4 Comenzar presentando la entidad o empresa que representa el evento.
-                  .row.justify-content-center.align-items-center
-                    .col-lg-10
-                      p.mb-4 Señalar la importancia del tema que convoca.
-                  .row.justify-content-center.align-items-center
-                    .col-lg-10
-                      p.mb-4 Hacer la presentación del  especialista o grupo que discursará y su trayectoria.
-                  .row.justify-content-center.align-items-center
-                    .col-lg-10
-                      p.mb-4 Después de mencionar el nombre de la persona o grupo, pedir al público que lo reciba con un fuerte aplauso.
+                .tarjeta.tarjeta--blanca.p-4.py-3(data-aos="fade-down")
+                  SlyderA(tipo="b")
+                    .row.justify-content-center.align-items-center
+                      .col-lg-10
+                        p.mb-4 La presentación de la persona o grupo que discursará, no debe pasar más de cinco minutos.
+                    .row.justify-content-center.align-items-center
+                      .col-lg-10
+                        p.mb-4 Tener preparada y ensayada la presentación.
+                    .row.justify-content-center.align-items-center
+                      .col-lg-10
+                        p.mb-4 En un espacio físico, después de saludar y presentarse, invitar al público a utilizar las sillas de adelante.
+                    .row.justify-content-center.align-items-center
+                      .col-lg-10
+                        p.mb-4 Comenzar presentando la entidad o empresa que representa el evento.
+                    .row.justify-content-center.align-items-center
+                      .col-lg-10
+                        p.mb-4 Señalar la importancia del tema que convoca.
+                    .row.justify-content-center.align-items-center
+                      .col-lg-10
+                        p.mb-4 Hacer la presentación del  especialista o grupo que discursará y su trayectoria.
+                    .row.justify-content-center.align-items-center
+                      .col-lg-10
+                        p.mb-4 Después de mencionar el nombre de la persona o grupo, pedir al público que lo reciba con un fuerte aplauso.
 
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -331,7 +329,7 @@
               .col-lg-8
                 .row.bgmagenta.mx-1.mt-4
                   h2.mt-1.mb-1 De manera inmediata que también se podría llamar información primaria
-            p.mb-0.px-5.mt-3.text-white A través de los sentidos y el contacto con el ambiente, el cual emite información a través de los elementos que lo conforman. El profesional recoge información a través de un contacto directo con el objeto de estudio; persona (as), medio, elemento etc.
+            p.mb-0.px-5.mt-3.text-white A través de los sentidos y el contacto con el ambiente, el cual emite información a través de los elementos que lo conforman. El profesional recoge información a través de un contacto directo con el objeto de estudio; persona (as), medio, elemento, etc.
             .row.justify-content-end.mt-0
               .col-auto
                 img.mb-4.mt-2(src='@/assets/curso/t2/ico.png', alt='')

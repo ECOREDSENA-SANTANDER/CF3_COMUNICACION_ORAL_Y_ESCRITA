@@ -156,7 +156,7 @@ export default {
         'hace referencia a la capacidad de interpretar un texto más allá de su significado literal, permitiendo hacer inferencias, análisis crítico y reflexiones sobre su contenido.',
     },
     {
-      termino: 'Componentente semiótico',
+      termino: 'Componente semiótico',
       significado:
         'se refiere al sistema de signos y símbolos que componen un texto, cuyo significado depende del contexto cultural y comunicativo en el que se utiliza.',
     },
@@ -183,7 +183,7 @@ export default {
     {
       termino: 'Función comunicativa',
       significado:
-        'el propósito de un texto, que puede ser informar, argumentar, narrar o describir, entre otros. cada tipo de texto responde a una función específica dentro de la comunicación.',
+        'el propósito de un texto, que puede ser informar, argumentar, narrar o describir, entre otros. Cada tipo de texto responde a una función específica dentro de la comunicación.',
     },
     {
       termino: 'Inferencia',
@@ -274,7 +274,7 @@ export default {
         'http://prepajocotepec.sems.udg.mx/sites/default/files/estrategias_pimiento_0.pdf',
     },
     {
-      referencia: 'RAE (2025). Discuro.',
+      referencia: 'RAE (2025). Discurso.',
       link: 'https://dle.rae.es/discurso?m=form',
     },
     {
@@ -326,7 +326,7 @@ export default {
         },
         {
           nombre: 'Zvi Daniel Grosman',
-          cargo: 'Diseñadora Instruccional',
+          cargo: 'Diseñador instruccional',
           centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
@@ -341,7 +341,7 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñadora de contenidos',
+          cargo: 'Diseñador de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

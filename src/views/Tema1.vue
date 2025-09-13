@@ -94,7 +94,7 @@
             .row.justify-content-center.align-items-center
               .col-auto
                 h3.text-center.bgblanco.px-3 Punto final
-            p.px-3.mb-5.mt-3.text-center Como lo menciona indica el final de escrito.
+            p.px-3.mb-5.mt-3.text-center Como lo menciona, indica el final del escrito.
             br
 
       .row.align-items-center.mt-5.mb-4(data-aos="fade-right")
