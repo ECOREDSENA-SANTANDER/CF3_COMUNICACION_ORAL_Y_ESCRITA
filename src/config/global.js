@@ -135,18 +135,17 @@ export default {
   complementario: [
     {
       tema: 'Uso de las preposiciones y su función.',
-      referencia: 'EAFIT (s.f.). Las preposiciones y su función.',
+      referencia:
+        'Campos, J. L. (2005). Gramática de las preposiciones. In Las gramáticas y los diccionarios en la enseñanza del español como segunda lengua. Deseo y realidad: actas del XV Congreso Internacional de ASELE. Sevilla, 22-25 de septiembre de 2004 (pp. 526-533). Editorial Universidad de Sevilla.',
       tipo: 'PDF',
-      link:
-        'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF3_Relacionando/media/documentos/Las_preposiciones_funci%C3%B3n_EAFIT.pdf',
+      link: 'https://dialnet.unirioja. es/descarga/articulo/14 21506.pdf',
     },
     {
       tema: 'Manejo de la información.',
       referencia:
-        'Gallardo & Adonay (1987). Módulo 3. Recolección de la información.',
+        'Talbi-Boulhais, R. (2003). Papel y función de las preposiciones en las perífrasis verbales. Interlingüística, (14), 973-980.',
       tipo: 'PDF',
-      link:
-        'https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Comunicacion_oral_y_escrita/CF3_Relacionando/media/documentos/M%C3%B3dulo%203_Recoleccion_%20informacion%20_Gallardo_Moreno_1987.pdf',
+      link: 'https://hispadoc.es/ser vlet/articulo?codigo=91 8964',
     },
   ],
   glosario: [
